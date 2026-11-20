@@ -1,0 +1,6 @@
+@Productos_JorgeCardozo_HostAddress = http://localhost:5162
+
+GET {{Productos_JorgeCardozo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
